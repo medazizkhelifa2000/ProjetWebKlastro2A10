@@ -1,0 +1,36 @@
+.res{
+  height: 30px;
+  width: 150px;
+  border: none;
+  background-color:#1C385C;
+  color: #4F767B;
+}
+#rech{
+height: 30px;
+width: 300px;
+border: none;
+padding-left: 2px:
+}
+
+.btfind{
+  height: 30px;
+  width: 150px;
+  border: none;
+  background-color: #4F767B;
+  color: #fff;
+}
+
+.tab{
+  border-collapse: collapse;
+
+  min-width: 400px;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.tab thead tr {
+ background-color: #4F767B;
+ color: #ffff;
+ text-align: left;
+}
